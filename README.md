@@ -48,18 +48,28 @@ UCI Heart Disease Dataset:
 ## 🚀 How to Run the Project
 Follow these steps to set up the environment and run the project on your local machine.
 
-1. Clone the Repository
-First, get a copy of the project code on your computer:
+## 🚀 How to Run the Project
+Follow these steps to set up the environment and run the project on your local machine.
 
+---
+
+### 1. Clone the Repository
+First, get a copy of the project code on your computer:
 
 git clone https://github.com/toqa-ehab/Heart_Disease_Project.git
 cd Heart_Disease_Project
-2. Install Dependencies
+
+---
+
+### 2. Install Dependencies
 Install all required Python libraries using pip:
 
 
 pip install -r requirements.txt
-3. Run the Jupyter Notebooks
+
+---
+
+### 3. Run the Jupyter Notebooks
 Open Jupyter Notebook and run the notebooks in sequential order:
 
 Data Preprocessing: Clean and prepare the data
@@ -80,7 +90,9 @@ Unsupervised Learning: Clustering analysis
 Hyperparameter Tuning: Optimize the best model
 06_hyperparameter_tuning.ipynb
 
-4. Access the Trained Model
+---
+
+### 4. Access the Trained Model
 After running all notebooks, the final trained model will be saved at:
 models/final_model.pkl
 
