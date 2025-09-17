@@ -45,8 +45,7 @@ The goal is to analyze, predict, and visualize heart disease risks using both **
 UCI Heart Disease Dataset:  
 👉 [https://archive.ics.uci.edu/ml/datasets/heart+Disease](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
 
-## 🚀 How to Run the Project
-Follow these steps to set up the environment and run the project on your local machine.
+---
 
 ## 🚀 How to Run the Project
 Follow these steps to set up the environment and run the project on your local machine.
