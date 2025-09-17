@@ -45,3 +45,42 @@ The goal is to analyze, predict, and visualize heart disease risks using both **
 UCI Heart Disease Dataset:  
 👉 [https://archive.ics.uci.edu/ml/datasets/heart+Disease](https://archive.ics.uci.edu/ml/datasets/heart+Disease)
 
+## 🚀 How to Run the Project
+Follow these steps to set up the environment and run the project on your local machine.
+
+1. Clone the Repository
+First, get a copy of the project code on your computer:
+
+
+git clone https://github.com/toqa-ehab/Heart_Disease_Project.git
+cd Heart_Disease_Project
+2. Install Dependencies
+Install all required Python libraries using pip:
+
+
+pip install -r requirements.txt
+3. Run the Jupyter Notebooks
+Open Jupyter Notebook and run the notebooks in sequential order:
+
+Data Preprocessing: Clean and prepare the data
+01_data_preprocessing.ipynb
+
+Dimensionality Reduction: PCA analysis
+02_pca_analysis.ipynb
+
+Feature Selection: Identify most important features
+03_feature_selection.ipynb
+
+Supervised Learning: Train classification models
+04_supervised_learning.ipynb
+
+Unsupervised Learning: Clustering analysis
+05_unsupervised_learning.ipynb
+
+Hyperparameter Tuning: Optimize the best model
+06_hyperparameter_tuning.ipynb
+
+4. Access the Trained Model
+After running all notebooks, the final trained model will be saved at:
+models/final_model.pkl
+
