@@ -93,7 +93,3 @@ Open Jupyter Notebook and run the notebooks in sequential order:
 ### 4. Access the Trained Model
 After running all notebooks, the final trained model will be saved at:
 models/final_model.pkl
-
----
-
-▶️ [Open in Google Colab](https://colab.research.google.com/github/YourUsername/YourRepoName/blob/main/notebooks/heart_disease_pipeline.ipynb)
