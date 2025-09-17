@@ -50,7 +50,6 @@ UCI Heart Disease Dataset:
 ## 🚀 How to Run the Project
 Follow these steps to set up the environment and run the project on your local machine.
 
----
 
 ### 1. Clone the Repository
 First, get a copy of the project code on your computer:
@@ -71,22 +70,22 @@ pip install -r requirements.txt
 ### 3. Run the Jupyter Notebooks
 Open Jupyter Notebook and run the notebooks in sequential order:
 
-Data Preprocessing: Clean and prepare the data
+-Data Preprocessing: Clean and prepare the data
 01_data_preprocessing.ipynb
 
-Dimensionality Reduction: PCA analysis
+-Dimensionality Reduction: PCA analysis
 02_pca_analysis.ipynb
 
-Feature Selection: Identify most important features
+-Feature Selection: Identify most important features
 03_feature_selection.ipynb
 
-Supervised Learning: Train classification models
+-Supervised Learning: Train classification models
 04_supervised_learning.ipynb
 
-Unsupervised Learning: Clustering analysis
+-Unsupervised Learning: Clustering analysis
 05_unsupervised_learning.ipynb
 
-Hyperparameter Tuning: Optimize the best model
+-Hyperparameter Tuning: Optimize the best model
 06_hyperparameter_tuning.ipynb
 
 ---
