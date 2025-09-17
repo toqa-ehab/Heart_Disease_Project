@@ -1,0 +1,6 @@
+Final Model Evaluation Metrics
+Chosen Model: Baseline SVM
+Baseline Accuracy: 0.9344
+Optimized Accuracy: 0.9016
+Improvement: -0.0328
+AUC Score (Baseline): 0.9686
